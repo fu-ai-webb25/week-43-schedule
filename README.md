@@ -1,5 +1,5 @@
 # Schema, vecka 43
-###### BUtveckling av AI-drivna applikationer
+###### Utveckling av AI-drivna applikationer, vecka 3 av 4
 
 ## Introduktion
 
