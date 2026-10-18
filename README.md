@@ -28,11 +28,11 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 
 ### Lektionsrepon
 
-* [19-okt]()
+* [19-okt](https://github.com/fu-ai-webb25/week-43-lecture-19-okt)
 
 ### Länkar
 
-* []()
+* [RunnableSequence Dokumentation](https://reference.langchain.com/javascript/langchain-core/runnables/RunnableSequence)
 
 ### Övningar 
 
