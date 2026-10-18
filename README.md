@@ -20,7 +20,7 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 
 ### Presentationer
 
-* 01 - []()
+* 01 - [Retrieval-Augmented Generation](https://docs.google.com/presentation/d/1iV6qdlb7TMa50rpvV5Xonn54KkrPgUMo/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
@@ -28,10 +28,7 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 
 ### Lektionsrepon
 
-* []()
-
-### Filmer
-
+* [19-okt]()
 
 ### Länkar
 
@@ -39,4 +36,5 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 
 ### Övningar 
 
+* [Campus AI](https://github.com/fu-ai-webb25/week-43-exercise-campus-ai/tree/main)
 
