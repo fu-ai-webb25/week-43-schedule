@@ -24,7 +24,7 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 
 ### Inspelade föreläsningar
 
-* []()
+* [RAG, 19 okt](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCCHGUIQS4WSIiGbXhAmBj_AdpebazG1xNZVLZI8oy4Wk4?e=4djJhm)
 
 ### Lektionsrepon
 
