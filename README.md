@@ -20,7 +20,7 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 
 ### Presentationer
 
-* 01 - [Retrieval-Augmented Generation](https://docs.google.com/presentation/d/1iV6qdlb7TMa50rpvV5Xonn54KkrPgUMo/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* 01 - [Retrieval-Augmented Generation](https://docs.google.com/presentation/d/1_DfsUiWxeCeiR2LEAOIHAPhKFB3TocpV/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
 ### Inspelade föreläsningar
 
