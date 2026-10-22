@@ -29,6 +29,7 @@ Vi bygger lösningar där språkmodellen hämtar information från dokument och 
 ### Lektionsrepon
 
 * [19-okt](https://github.com/fu-ai-webb25/week-43-lecture-19-okt)
+* [23-okt](https://github.com/fu-ai-webb25/week-43-lecture-23-okt)
 
 ### Länkar
 
